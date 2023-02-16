@@ -1,10 +1,13 @@
+![alt text](https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/25124/blood-g4e28dcb97_1920.jpg)
+
+
 # WBA_Semi-automatized_EC50-calculation
-Human Whole blood assay (WBA) - treated with different compounds using different concentrations in order to determine EC50 (Half maximal effective concentration) values regarding different cytokines.
+Human Whole blood assay (WBA) -  blood was treated with different compounds using different concentrations in order to determine EC50 (Half maximal effective concentration) values regarding different cytokines.
 
 
   1. Human blood was equally distributed onto a 96-well plate (225µl/well)
   
-  2. Prediluted compounds were added to the wells respectively (25µl/well)
+  2. Prediluted compounds (A and B in triplicates) were added to the wells respectively (25µl/well)
   
   3. After 24h incubation, plate was centrifuged and the serum part was collected (~50µl/well)
   
