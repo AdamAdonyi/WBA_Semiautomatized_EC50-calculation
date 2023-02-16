@@ -12,4 +12,4 @@ Human Whole blood assay (WBA) - treated with different compounds using different
   
   5, The titration allows to determine EC50 values regarding all secreted cytokines
 
-The calculation was performed in GraphPad Prism in order to double check the accuracy (TEST_data)
+The calculation was performed in GraphPad Prism in order to double check the accuracy (EC_50_test_data and R file)
