@@ -32,3 +32,8 @@ Experiment data was used to compare two different commercially available STING a
 2. WBA.R
 3. Result_EC50_A.JPG
 4. Result_EC50_B.JPG
+
+
+# References:
+
+[Used MSD technology](https://www.mesoscale.com/en/products_and_services/assay_kits/multiplex_assay_kits/)
