@@ -1,4 +1,4 @@
-# WBA_Semiautomatized_EC50-calculation
+# WBA_Semi-automatized_EC50-calculation
 Human Whole blood treated with different compounds using different concentrations in order to determine EC50 (Half maximal effective concentration) values regarding different cytokines.
 
 
@@ -11,3 +11,5 @@ Human Whole blood treated with different compounds using different concentration
   4, Collected supernatant was used for cytokine measurment in an MSD system (in each well 10 different spots are ready to measure individual analyte concentration (IFNb, IL-10...) symulteniously)
   
   5, The titration allows to determine EC50 values regarding all secreted cytokines
+
+The calculation was performed in GraphPad Prism in order to double check the accuracy
