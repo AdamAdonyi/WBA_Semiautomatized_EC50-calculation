@@ -12,4 +12,21 @@ Human Whole blood assay (WBA) - treated with different compounds using different
   
   5, The titration allows to determine EC50 values regarding all secreted cytokines
 
-The calculation was performed in GraphPad Prism in order to double check the accuracy (EC_50_test_data and R file)
+
+
+
+## Test
+The calculation was performed in GraphPad Prism in order to double check the accuracy 
+
+### Needed files:
+EC50_test.R
+EC50_training_data.xlsx
+
+## Experiment
+Experiment data was used to compare two different commercially available STING antagonist (A and B) to determine capability to induce cytokine secretion then calculate EC50 values for each cytokine respecively. 
+
+### Needed files:
+2BM2HAMM84
+WBA.R
+Result_EC50_A.JPG
+Result_EC50_B.JPG
