@@ -30,6 +30,9 @@ The calculation was performed in GraphPad Prism in order to double check the acc
 ## Experiment
 Experiment data was used to compare two different commercially available STING antagonist ([A](https://www.tocris.com/products/sting-agonist-c53_7741),  and [B](https://www.selleckchem.com/products/diabzi-sting-agonist-compound-3.html)) to determine capability to induce cytokine secretion then calculate EC50 values for each cytokine respecively. 
 
+### Layout: triplicates (concentration is in µM)
+
+![alt text](https://github.com/AdamAdonyi/WBA_Semiautomatized_EC50-calculation/blob/main/Layout.JPG)
 ### Needed files:
 1. 2BM2HAMM84
 2. WBA.R
