@@ -33,6 +33,9 @@ Experiment data was used to compare two different commercially available STING a
 ### Layout: triplicates (concentration is in µM)
 
 ![alt text](https://github.com/AdamAdonyi/WBA_Semiautomatized_EC50-calculation/blob/main/Layout.JPG)
+
+### Investigated cytokines: IL-10, IL-6, IFNg, IFNa, IP-10, MCP-1, IL-2, GRZMb, IFNb, TNFa
+
 ### Needed files:
 1. 2BM2HAMM84
 2. WBA.R
