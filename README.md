@@ -42,6 +42,9 @@ Experiment data was used to compare two different commercially available STING a
 3. Result_EC50_A.JPG
 4. Result_EC50_B.JPG
 
+# Results
+![alt text](https://github.com/AdamAdonyi/WBA_Semiautomatized_EC50-calculation/blob/main/Result_EC50_A.JPG) |
+![alt text](https://github.com/AdamAdonyi/WBA_Semiautomatized_EC50-calculation/blob/main/Result_EC50_B.JPG)
 
 # References:
 
